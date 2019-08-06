@@ -1,10 +1,10 @@
 # cryptotracker
 
 A fish redux application.
-docs/images/Simulator Screen Shot - iPhone Xs - 2019-08-06 at 10.26.32.png
+
 
 # Application Screen
-
+/Users/liwanqiang/Google/Project/Flutter/CryptoTracker/docs/images/Simulator Screen Shot - iPhone Xs - 2019-08-06 at 10.26.32.png
 
 ## Getting Started
 
