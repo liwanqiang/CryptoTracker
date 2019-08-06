@@ -4,7 +4,7 @@ A fish redux application.
 
 
 # Application Screen
-/Users/liwanqiang/Google/Project/Flutter/CryptoTracker/docs/images/Simulator Screen Shot - iPhone Xs - 2019-08-06 at 10.26.32.png
+![alt screen_shot_01.png](docs/images/screen_shot_01.png)
 
 ## Getting Started
 
