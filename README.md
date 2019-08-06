@@ -4,7 +4,7 @@ A fish redux application.
 
 
 # Application Screen
-![alt screen_shot_01.png](docs/images/screen_shot_01.png)
+![alt screen_shot_01.png](docs/images/screen_shot_01.png) ![alt screen_shot_02.png](docs/images/screen_shot_02.png) ![alt screen_shot_03.png](docs/images/screen_shot_03.png) ![alt screen_shot_04.png](docs/images/screen_shot_04.png) 
 
 ## Getting Started
 
